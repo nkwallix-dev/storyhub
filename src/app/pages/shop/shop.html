@@ -180,6 +180,7 @@
               [src]="product.image"
               [alt]="product.name"
               loading="lazy"
+              decoding="async"
             >
 
             @if (product.demo) {
@@ -461,6 +462,8 @@
             <img
               [src]="item.image"
               [alt]="item.name"
+              loading="lazy"
+              decoding="async"
             >
 
             <div class="cart-item-copy">
