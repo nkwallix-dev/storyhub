@@ -89,7 +89,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'haengender-alman-rekord',
     title: 'Der hängende Alman ist zurück mit einem neuen Rekord! 😳 (KRASS)',
-    thumbnail: 'episodes/haengender-alman-rekord.png',
+    thumbnail: 'episodes/haengender-alman-rekord.webp',
     chronology: 4,
     storyDate: '2021-05-18',
     kinds: ['episode'],
@@ -118,7 +118,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'energy-drink-spielplatz',
     title: 'energy drink + spielplatz = dieses video... 😂',
-    thumbnail: 'episodes/energy-drink-spielplatz.png',
+    thumbnail: 'episodes/energy-drink-spielplatz.webp',
     chronology: 6,
     storyDate: '2022-04-02',
     kinds: ['episode'],
@@ -135,7 +135,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'crackyman-part-1',
     title: 'Der Crackyman (Part 1)',
-    thumbnail: 'episodes/crackyman-part-1.png',
+    thumbnail: 'episodes/crackyman-part-1.webp',
     chronology: 7,
     storyDate: '2022-07-04',
     kinds: ['episode'],
@@ -185,7 +185,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'x-king-ft-crackyman',
     title: 'The X-King ft. Crackyman (Offizielles Musikvideo)',
-    thumbnail: 'episodes/x-king-ft-crackyman.png',
+    thumbnail: 'episodes/x-king-ft-crackyman.webp',
     chronology: 10,
     storyDate: '2022-10-31',
     kinds: ['episode','musicvideo'],
@@ -218,7 +218,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
   id: 'happyxv2',
   title: 'Happy X (v2) ft. Xoph',
-  thumbnail: 'episodes/happyxv2.png',
+  thumbnail: 'episodes/happyxv2.webp',
   chronology: 12,
   storyDate: '2023-10-31',
   kinds: ['musicvideo'],
@@ -261,7 +261,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'dms-akt-1',
     title: 'Die magische Schriftrolle - Akt 1',
-    thumbnail: 'episodes/dms-akt-1.png',
+    thumbnail: 'episodes/dms-akt-1.webp',
     chronology: 13,
     storyDate: '2024-10-31',
     kinds: ['episode'],
@@ -281,7 +281,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'dms-akt-2',
     title: 'Die magische Schriftrolle - Akt 2',
-    thumbnail: 'episodes/dms-akt-2.png',
+    thumbnail: 'episodes/dms-akt-2.webp',
     chronology: 14,
     storyDate: '2025-10-31',
     kinds: ['episode'],
@@ -321,7 +321,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'wolf-of-waldstreet',
     title: 'Der Wolf of Waldstreet (Märchen in Asozial)',
-    thumbnail: 'episodes/wolf-of-waldstreet.png',
+    thumbnail: 'episodes/wolf-of-waldstreet.webp',
     chronology: 15,
     storyDate: '2026-03-31',
     kinds: ['episode'],
