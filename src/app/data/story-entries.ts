@@ -29,7 +29,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Xyros',
     role: 'Böse',
     description: 'König der Albtraumwelt. Herrscher der Dunkelheit. Meisterstatus-Nekromantiker',
-    image: '/characters/Xyros.png',
+    image: 'characters/Xyros.png',
     imageClass: 'xyros-image',
     magicalBeing: false
   },
@@ -39,7 +39,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Crackyman',
     role: 'Böse',
     description: 'Eine Figur zwischen Chaos, Jagd und Geheimnissen, die alles verändern.',
-    image: '/characters/Crackyman.png',
+    image: 'characters/Crackyman.png',
     imageClass: 'crackyman-image',
     magicalBeing: false
   },
@@ -49,7 +49,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Rick',
     role: 'Böse',
     description: 'Auf einem Auge blind, auf dem anderen Auge FBI Agent.',
-    image: '/characters/Rick.png',
+    image: 'characters/Rick.png',
     imageClass: 'rick-image',
     magicalBeing: false
   },
@@ -59,7 +59,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Niklas',
     role: 'Gut',
     description: 'Keine Ahnung wie ich hier gelandet bin tbh.',
-    image: '/characters/Niklas.png',
+    image: 'characters/Niklas.png',
     imageClass: 'niklas-image',
     magicalBeing: false
   },
@@ -69,7 +69,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Ben',
     role: 'Gut',
     description: 'Ich wollte doch nur meine geliebte Sophie wieder sehen...',
-    image: '/characters/Ben.png',
+    image: 'characters/Ben.png',
     imageClass: 'ben-image',
     magicalBeing: false
   },
@@ -79,7 +79,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Philip',
     role: 'Gut',
     description: 'Der hängende Alman.',
-    image: '/characters/Philip.png',
+    image: 'characters/Philip.png',
     imageClass: 'philip-image',
     magicalBeing: false
   },
@@ -89,7 +89,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Xoph',
     role: 'Böse',
     description: 'Gewartet und gewartet hab ich 56 Tage...',
-    image: '/characters/Xoph.png',
+    image: 'characters/Xoph.png',
     imageClass: 'xoph-image',
     magicalBeing: false
   },
@@ -99,7 +99,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Dealer',
     role: 'Böse',
     description: 'Das Monster in dir...',
-    image: '/characters/Dealer.png',
+    image: 'characters/Dealer.png',
     imageClass: 'dealer-image',
     magicalBeing: false
   },
@@ -109,7 +109,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Melissa',
     role: 'Gut',
     description: 'Serviermädchen by day; Hüterin der Fliegen by night.',
-    image: '/characters/Melissa.png',
+    image: 'characters/Melissa.png',
     imageClass: 'melissa-image',
     magicalBeing: false
   },
@@ -119,7 +119,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Slim Schlappen',
     role: 'Böse',
     description: 'Wos wüst du, owa fa mein Grundstickl',
-    image: '/characters/SlimSchlappen.png',
+    image: 'characters/SlimSchlappen.png',
     imageClass: 'slimschlappen-image',
     magicalBeing: true
   },
@@ -129,7 +129,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Ski Augli',
     role: 'Böse',
     description: 'Ich bin kein Perverser. Ich bin Ski Augli.',
-    image: '/characters/SkiAugli.png',
+    image: 'characters/SkiAugli.png',
     imageClass: 'skiaugli-image',
     magicalBeing: true
   },
@@ -139,7 +139,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Amina',
     role: 'Böse',
     description: 'Beute fängt man für gewöhnlich als Raubtier. Nicht als hübsche Dame.',
-    image: '/characters/Amina.png',
+    image: 'characters/Amina.png',
     imageClass: 'amina-image',
     magicalBeing: false
   },
@@ -149,7 +149,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Corra',
     role: 'Gut',
     description: 'Du trägst ihn immer noch bei dir...',
-    image: '/characters/Corra.png',
+    image: 'characters/Corra.png',
     imageClass: 'corra-image',
     magicalBeing: true
   },
@@ -159,7 +159,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Hermiminone',
     role: 'Böse',
     description: 'Crack, Crack, Crack: Ich bin weg!',
-    image: '/characters/Hermiminone.png',
+    image: 'characters/Hermiminone.png',
     imageClass: 'hermiminone-image',
     magicalBeing: true
   },
@@ -169,7 +169,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Wolf Of Waldstreet',
     role: 'Gut',
     description: 'Freshere Bude als im Wolfshain',
-    image: '/characters/WolfOfWaldStreet.png',
+    image: 'characters/WolfOfWaldStreet.png',
     imageClass: 'wolfofwaldstreet-image',
     magicalBeing: true
   },
@@ -179,7 +179,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Gabba Gandalf',
     role: 'Böse',
     description: 'Reich bis zum Schwanz, der nichtmal so groß aussieht!',
-    image: '/characters/GabbaGandalf.png',
+    image: 'characters/GabbaGandalf.png',
     imageClass: 'gabbagandalf-image',
     magicalBeing: false
   },
@@ -189,7 +189,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Whackyman',
     role: 'Böse',
     description: 'Ich hab auch versucht ihn zu finden!',
-    image: '/characters/Whackyman.png',
+    image: 'characters/Whackyman.png',
     imageClass: 'whackyman-image',
     magicalBeing: false
   },
@@ -199,7 +199,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'hornlos-unterentwickelte Kinder',
     role: 'Animalisch',
     description: 'Unsere Mutter klingt viel hornier als du!',
-    image: '/characters/Schafe.png',
+    image: 'characters/Schafe.png',
     imageClass: 'Schafe-image',
     magicalBeing: false
   },
@@ -209,7 +209,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'nervige Fliege',
     role: 'Animalisch',
     description: 'sssssssssssssssssssssssssss',
-    image: '/characters/Fliege.png',
+    image: 'characters/Fliege.png',
     imageClass: 'Fliege-image',
     magicalBeing: false
   },
@@ -219,7 +219,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     name: 'Mafakxi',
     role: 'Gut',
     description: 'Ich wünscht ich könnt euch nochmal sehn...',
-    image: '/characters/Mafakxi.png',
+    image: 'characters/Mafakxi.png',
     imageClass: 'Mafakxi-image',
     magicalBeing: false
   },
@@ -230,7 +230,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     id: 'larry',
     name: 'Larry',
     description: 'Dickere Schädeldecke als ein Pachycephalosaurus.',
-    image: '/characters/Larry.png',
+    image: 'characters/Larry.png',
     imageClass: 'Larry-image'
   },
   {
@@ -238,7 +238,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     id: 'xyros-altes-zepter',
     name: "Xyros' Konservations-Zepter",
     description: "Xoph's Rettung in letzter Sekunde.",
-    image: '/items/XyrosAltesZepter.png',
+    image: 'items/XyrosAltesZepter.png',
     imageClass: 'artifact-image'
   },
   {
@@ -246,7 +246,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     id: 'xyros-neues-zepter',
     name: "Xyros' Zepter ft. Larry",
     description: 'Das mächtige Zepter von Xyros – mit Larry als Teil davon.',
-    image: '/items/XyrosNeuesZepter.png',
+    image: 'items/XyrosNeuesZepter.png',
     imageClass: 'artifact-image'
   },
   {
@@ -254,7 +254,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     id: 'magische-schriftrolle',
     name: 'Die magische Schriftrolle',
     description: 'Die Schriftrolle, um die sich mehr dreht, als gesund wäre.',
-    image: '/items/MagischeSchriftrolle.png',
+    image: 'items/MagischeSchriftrolle.png',
     imageClass: 'artifact-image'
   },
   {
@@ -262,7 +262,7 @@ export const STORY_ENTRIES: StoryEntry[] = [
     id: 'hermiminones-zauberstab',
     name: 'Hermiminones Zauberstab',
     description: 'Hex Hex!! Hex Hex!!',
-    image: '/items/HermiminonesZauberstab.png',
+    image: 'items/HermiminonesZauberstab.png',
     imageClass: 'artifact-image'
   }
 ];
