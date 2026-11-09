@@ -31,6 +31,22 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Generate lossless WebP images
+        shell: bash
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y webp
+
+          echo "Generating lossless WebP assets..."
+
+          find public -type f \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' \) -print0 |
+          while IFS= read -r -d '' file; do
+            output="${file%.*}.webp"
+            cwebp -quiet -lossless -exact -m 4 "$file" -o "$output"
+          done
+
+          echo "WebP generation complete."
+
       - name: Build Angular
         run: npx ng build --configuration production --base-href /storyhub/
 
