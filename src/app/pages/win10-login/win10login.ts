@@ -73,8 +73,8 @@ export class Win10Login implements AfterViewInit, OnDestroy {
     const loginName = $<HTMLElement>('#loginName');
     const welcomeName = $<HTMLElement>('#welcomeName');
 
-    const DEFAULT_AVATAR = 'extras/ben_pb.png';
-    const DEFAULT_WALLPAPER = 'extras/ben_bg.png';
+    const DEFAULT_AVATAR = 'extras/ben_pb.webp';
+    const DEFAULT_WALLPAPER = 'extras/ben_bg.webp';
 
     const setName = (value: string): void => {
       const name = (value || 'Ben').trim() || 'Ben';
