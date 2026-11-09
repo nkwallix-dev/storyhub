@@ -191,7 +191,7 @@ export class Shop
           'Vorschaukarte für die X-Eyes Collection.',
 
         image:
-          'episodes/x-king-ft-crackyman.png',
+          'episodes/x-king-ft-crackyman.webp',
 
         tags: [
           'x-eyes',
@@ -801,7 +801,7 @@ export class Shop
       return preview.url;
     }
 
-    return 'logo.png';
+    return 'logo.webp';
   }
 
   private formatPrice(
