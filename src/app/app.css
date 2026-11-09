@@ -242,7 +242,7 @@
 .left-area {
   background:
     linear-gradient(rgba(0, 0, 0, 0.18), rgba(0, 0, 0, 0.82)),
-    url("/storyhub/left-bg.png");
+    url("/storyhub/left-bg.webp");
 
   background-size: cover;
   background-position: center;
@@ -252,7 +252,7 @@
 .right-area {
   background:
     linear-gradient(rgba(0, 0, 0, 0.18), rgba(0, 0, 0, 0.82)),
-    url("/storyhub/right-bg.png");
+    url("/storyhub/right-bg.webp");
 
   background-size: cover;
   background-position: center;
