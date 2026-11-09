@@ -1,6 +1,6 @@
 <main class="menu-page">
   <div class="logo-bar">
-    <img class="storyhub-logo" src="logo.png" alt="NKWALLIX Storyhub Logo">
+    <img class="storyhub-logo" src="logo.webp" alt="NKWALLIX Storyhub Logo" loading="eager" decoding="async" fetchpriority="high">
   </div>
 
   <header class="topbar">
@@ -51,6 +51,8 @@
                     class="search-result-image"
                     [src]="result.image"
                     [alt]="result.title"
+                    loading="lazy"
+                    decoding="async"
                   >
 
                   <span class="search-result-copy">
@@ -93,6 +95,8 @@
                     class="search-result-image"
                     [src]="result.image"
                     [alt]="result.title"
+                    loading="lazy"
+                    decoding="async"
                   >
 
                   <span class="search-result-copy">
