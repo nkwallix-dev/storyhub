@@ -202,6 +202,9 @@
               class="episode-thumbnail"
               [src]="episode.thumbnail"
               [alt]="episode.title"
+              loading="eager"
+              decoding="async"
+              fetchpriority="high"
             >
 
             @if (episode.youtubeEnabled && episode.youtubeUrl) {
@@ -296,6 +299,8 @@
                 class="timeline-thumbnail"
                 [src]="episode.thumbnail"
                 [alt]="episode.title"
+                loading="lazy"
+                decoding="async"
               >
 
               <div class="timeline-info">
