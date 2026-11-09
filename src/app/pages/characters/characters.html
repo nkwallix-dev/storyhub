@@ -166,6 +166,8 @@
                           class="video-filter-thumbnail"
                           [src]="episode.thumbnail"
                           [alt]="episode.title"
+                          loading="lazy"
+                          decoding="async"
                         >
 
                         <span class="video-filter-title">
@@ -213,6 +215,8 @@
               [class]="'character-image ' + entry.imageClass"
               [src]="entry.image"
               [alt]="entry.name"
+              loading="lazy"
+              decoding="async"
             >
 
             <div class="character-info">
@@ -245,6 +249,8 @@
               [class]="'character-image ' + actor.imageClass"
               [src]="actor.image"
               [alt]="actor.name"
+              loading="lazy"
+              decoding="async"
             >
 
             <div class="character-info">
