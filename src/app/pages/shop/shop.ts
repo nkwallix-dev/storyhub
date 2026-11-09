@@ -159,7 +159,7 @@ export class Shop
           'Vorschaukarte für einen zukünftigen Drop rund um Die magische Schriftrolle.',
 
         image:
-          '/episodes/dms-trailer.png',
+          'episodes/dms-trailer.png',
 
         tags: [
           'magische schriftrolle',
@@ -191,7 +191,7 @@ export class Shop
           'Vorschaukarte für die X-Eyes Collection.',
 
         image:
-          '/episodes/x-king-ft-crackyman.png',
+          'episodes/x-king-ft-crackyman.png',
 
         tags: [
           'x-eyes',
@@ -223,7 +223,7 @@ export class Shop
           'Vorschaukarte für einen späteren Crackyman-Drop.',
 
         image:
-          '/episodes/crackyman-part-3.png',
+          'episodes/crackyman-part-3.png',
 
         tags: [
           'crackyman',
@@ -562,7 +562,7 @@ export class Shop
     try {
       const response =
         await fetch(
-          '/shop/products.json',
+          'shop/products.json',
           {
             cache:
               'no-store',
@@ -801,7 +801,7 @@ export class Shop
       return preview.url;
     }
 
-    return '/logo.png';
+    return 'logo.png';
   }
 
   private formatPrice(
