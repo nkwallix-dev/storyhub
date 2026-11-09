@@ -40,7 +40,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'dms-akt-0',
     title: 'Die magische Schriftrolle - Akt 0',
-    thumbnail: '/episodes/dms-akt-0.jpg',
+    thumbnail: 'episodes/dms-akt-0.jpg',
     chronology: 1,
     storyDate: '2020-09-05',
     releaseDate: '2026-10-24',
@@ -61,7 +61,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'haengender-alman-spielplatz',
     title: 'der hängende alman am Spielplatz 😂😂😂',
-    thumbnail: '/episodes/haengender-alman-spielplatz.png',
+    thumbnail: 'episodes/haengender-alman-spielplatz.png',
     chronology: 2,
     storyDate: '2021-04-29',
     kinds: ['episode'],
@@ -75,7 +75,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: '12-minuten',
     title: 'er hat es einfach unglaublich 12 minuten geschafft 😳😳',
-    thumbnail: '/episodes/12-minuten.png',
+    thumbnail: 'episodes/12-minuten.png',
     chronology: 3,
     storyDate: '2021-05-02',
     kinds: ['episode'],
@@ -89,7 +89,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'haengender-alman-rekord',
     title: 'Der hängende Alman ist zurück mit einem neuen Rekord! 😳 (KRASS)',
-    thumbnail: '/episodes/haengender-alman-rekord.png',
+    thumbnail: 'episodes/haengender-alman-rekord.png',
     chronology: 4,
     storyDate: '2021-05-18',
     kinds: ['episode'],
@@ -103,7 +103,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'x-eyes-ft-philip',
     title: 'X-eyes ft. Philip| official musicvideo (instrumental)',
-    thumbnail: '/episodes/x-eyes-ft-philip.png',
+    thumbnail: 'episodes/x-eyes-ft-philip.png',
     chronology: 5,
     storyDate: '2021-10-31',
     kinds: ['episode','musicvideo'],
@@ -118,7 +118,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'energy-drink-spielplatz',
     title: 'energy drink + spielplatz = dieses video... 😂',
-    thumbnail: '/episodes/energy-drink-spielplatz.png',
+    thumbnail: 'episodes/energy-drink-spielplatz.png',
     chronology: 6,
     storyDate: '2022-04-02',
     kinds: ['episode'],
@@ -135,7 +135,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'crackyman-part-1',
     title: 'Der Crackyman (Part 1)',
-    thumbnail: '/episodes/crackyman-part-1.png',
+    thumbnail: 'episodes/crackyman-part-1.png',
     chronology: 7,
     storyDate: '2022-07-04',
     kinds: ['episode'],
@@ -150,7 +150,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'crackyman-part-2',
     title: 'Der Crackyman (Part 2)',
-    thumbnail: '/episodes/crackyman-part-2.png',
+    thumbnail: 'episodes/crackyman-part-2.png',
     chronology: 8,
     storyDate: '2022-09-04',
     kinds: ['episode'],
@@ -167,7 +167,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'crackyman-part-3',
     title: 'Der Crackyman (Part 3)',
-    thumbnail: '/episodes/crackyman-part-3.png',
+    thumbnail: 'episodes/crackyman-part-3.png',
     chronology: 9,
     storyDate: '2022-10-30',
     releaseDate: '2023-08-03',
@@ -185,7 +185,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'x-king-ft-crackyman',
     title: 'The X-King ft. Crackyman (Offizielles Musikvideo)',
-    thumbnail: '/episodes/x-king-ft-crackyman.png',
+    thumbnail: 'episodes/x-king-ft-crackyman.png',
     chronology: 10,
     storyDate: '2022-10-31',
     kinds: ['episode','musicvideo'],
@@ -201,7 +201,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'happy-x',
     title: 'Happy X ft. Mafakxi',
-    thumbnail: '/episodes/happy-x.png',
+    thumbnail: 'episodes/happy-x.png',
     chronology: 11,
     storyDate: '2023-10-31',
     kinds: ['episode','musicvideo'],
@@ -218,7 +218,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
   id: 'happyxv2',
   title: 'Happy X (v2) ft. Xoph',
-  thumbnail: '/episodes/happyxv2.png',
+  thumbnail: 'episodes/happyxv2.png',
   chronology: 12,
   storyDate: '2023-10-31',
   kinds: ['musicvideo'],
@@ -242,7 +242,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'dms-trailer',
     title: 'Die magische Schriftrolle - Trailer',
-    thumbnail: '/episodes/dms-trailer.png',
+    thumbnail: 'episodes/dms-trailer.png',
     releaseDate: '2024-10-22',
     kinds: ['trailer'],
     storyRelevant: false,
@@ -261,7 +261,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'dms-akt-1',
     title: 'Die magische Schriftrolle - Akt 1',
-    thumbnail: '/episodes/dms-akt-1.png',
+    thumbnail: 'episodes/dms-akt-1.png',
     chronology: 13,
     storyDate: '2024-10-31',
     kinds: ['episode'],
@@ -281,7 +281,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'dms-akt-2',
     title: 'Die magische Schriftrolle - Akt 2',
-    thumbnail: '/episodes/dms-akt-2.png',
+    thumbnail: 'episodes/dms-akt-2.png',
     chronology: 14,
     storyDate: '2025-10-31',
     kinds: ['episode'],
@@ -303,7 +303,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
   id: 'contract-killer',
   title: 'Contract Killer',
-  thumbnail: '/episodes/contract-killer.png',
+  thumbnail: 'episodes/contract-killer.png',
   releaseDate: '2025-11-25',
 
   storyPlacement: 'Spielt in Akt 2',
@@ -321,7 +321,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'wolf-of-waldstreet',
     title: 'Der Wolf of Waldstreet (Märchen in Asozial)',
-    thumbnail: '/episodes/wolf-of-waldstreet.png',
+    thumbnail: 'episodes/wolf-of-waldstreet.png',
     chronology: 15,
     storyDate: '2026-03-31',
     kinds: ['episode'],
@@ -340,7 +340,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'dms-trailer2',
     title: 'Die magische Schriftrolle - Akt 0 & Akt 3 Trailer: Der Anfang vom Ende',
-    thumbnail: '/episodes/trailer_dms03.png',
+    thumbnail: 'episodes/trailer_dms03.png',
     releaseDate: '2026-10-10',
     kinds: ['trailer'],
     storyRelevant: false,
@@ -361,7 +361,7 @@ export const STORY_EPISODES: StoryEpisode[] = [
   {
     id: 'dms-akt-3',
     title: 'Die magische Schriftrolle - Akt 3',
-    thumbnail: '/episodes/dms-akt-3.png',
+    thumbnail: 'episodes/dms-akt-3.png',
     chronology: 16,
     storyDate: '2026-10-31',
     releaseDate: '2026-10-31',
